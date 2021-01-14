@@ -1,0 +1,2 @@
+﻿$('#footemail').append('联系邮箱：meijisenlin@outlook.com');
+$('#footlink').append('友情链接：<a href="https://秘密入口.com/" target="_blank">第一福利導航</a><a href="https://tt7ga88.com" style="color:red;"  target="_blank">天天棋牌</a>');
