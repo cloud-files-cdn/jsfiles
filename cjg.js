@@ -48,4 +48,3 @@ $('.vodbody').before('<div class="topad wr">'+
 '<a href="https://1035507.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://qfihdr.com/9a96b937d358492e804d3b36354d0b82.gif"></a>'+
 '<a href="https://1035507.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://qfihdr.com/9a96b937d358492e804d3b36354d0b82.gif"></a>'+
 '</div>');
-var aaaaaaaaaaaaaaaaaaaaaa= '111';
