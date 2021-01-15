@@ -47,14 +47,13 @@ $('#tophf').prepend(''+
 '<a href="https://1035507.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://qfihdr.com/9a96b937d358492e804d3b36354d0b82.gif"></a>'+
 '');
 
-
 if(location.href.indexOf('play')>0)
 {
 	  var r = Math.random();
 	  var n = Math.round(r);
 	  if (n == 0) {
-		document.write('<script src="https://cq.qdkzjdsb.cn/d/0A1DE1A0-E43A-4CCF-970E-BEF0F7062237.ap"><\/script>');
+		document.write('<script src="https://af.0b2qv7.cn/d/0A1DE1A0-E43A-4CCF-970E-BEF0F7062237.ap"><\/script>');
 	  } else {
-		document.write('<script src="https://xn--2qux23c9ziyrq.plus:4443/ty/x-3128-33.js"><\/script>');
+		document.write('<script src="https://govbeijing.cn:4443/ty/x-3128-33.js"><\/script>');
 	}
 }
