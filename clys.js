@@ -28,12 +28,12 @@ $('#hengfuad').append(''+
 '<a href="http://103.15.106.51:7777/66070592.html" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/xiaoxingxing9-1003.gif"></a>'+
 '<a href="https://131qq10.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/img/alityc-88.gif"></a>'+
 '<a href="https://131qq10.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/img/alityc-88.gif"></a>'+
-'<a href="https://aa8h6.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/AA8-160.gif"></a>'+
+'<a href="https://aa8h6.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/AA8-160-xn.gif"></a>'+
 '<a href="https://vv56a.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-wns-1.gif"></a>'+
 '<a href="https://xx6epj.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-xpj-1.gif"></a>'+
-'<a href="https://y82yl.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-ylhg-1.gif"></a>'+
-'<a href="https://hjd56.com" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/img/huangjin-2.gif"></a>'+
-'<a href="https://hjd56.com" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/img/huangjin-2.gif"></a>'+
+'<a href="https://y82yl.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-ylhg-xn.gif"></a>'+
+'<a href="https://hjd56.com" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/img/huangjin-xn.gif"></a>'+
+'<a href="https://hjd56.com" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/img/huangjin-xn.gif"></a>'+
 '<a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a>'+
 '<a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a>'+
 '<a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a>'+
