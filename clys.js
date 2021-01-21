@@ -32,8 +32,7 @@ $('#hengfuad').append(''+
 '<a href="https://vv56a.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-wns-1.gif"></a>'+
 '<a href="https://xx6epj.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-xpj-1.gif"></a>'+
 '<a href="https://y82yl.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-ylhg-xn.gif"></a>'+
-'<a href="https://hjd56.com" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/img/huangjin-xn.gif"></a>'+
-'<a href="https://hjd56.com" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/img/huangjin-xn.gif"></a>'+
+'<a href="https://hjd56.com" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/huangjin-xn.gif"></a>'+
 '<a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a>'+
 '<a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a>'+
 '<a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a>'+
