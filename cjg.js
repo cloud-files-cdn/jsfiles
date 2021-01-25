@@ -19,9 +19,9 @@ $('.vodbody').before('<div class="topad wr">'+
 '<a href="http://8824955.com/#/?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="http://www.1990tu.com/i/20210111000417quj.gif"></a>'+
 '<a href="http://8824955.com/#/?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="http://www.1990tu.com/i/20210111000417quj.gif"></a>'+
 '<a href="http://8824955.com/#/?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="http://www.1990tu.com/i/20210111000417quj.gif"></a>'+
-'<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/2021011001014032r.gif"></a>'+
-'<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/2021011001014032r.gif"></a>'+
-'<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/2021011001014032r.gif"></a>'+
+'<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/20210125222024l46.gif"></a>'+
+'<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/20210125222024l46.gif"></a>'+
+'<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/20210125222024l46.gif"></a>'+
 '<a href="https://7610117.cc/" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/20201231170341nh7.gif"></a>'+
 '<a href="https://7610117.cc/" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/20201231170341nh7.gif"></a>'+
 '<a href="https://7610117.cc/" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/20201231170341nh7.gif"></a>'+
