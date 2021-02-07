@@ -19,7 +19,7 @@ $('#ad_top').append(''+
 '<a href="http://9997252.com/#/?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://www.1990tu.com/i/20201205172034zhx.gif"></a>'+
 '<a href="http://9997252.com/#/?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://www.1990tu.com/i/20201205172034zhx.gif"></a>'+
 //'<a href="https://aa8h6.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/AA8-160-xn.gif"></a>'+
-'<a href="http://2229443.com/#/?register=1" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/202102021714194bd.gif"></a>'+
+'<a href="http://2227044.com/#/?register=1" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/202102021714194bd.gif"></a>'+
 '<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="https://www.1990tu.com/i/20210125222024l46.gif"></a>'+
 '<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="https://www.1990tu.com/i/20210125222024l46.gif"></a>'+
 '<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="https://www.1990tu.com/i/20210125222024l46.gif"></a>'+
