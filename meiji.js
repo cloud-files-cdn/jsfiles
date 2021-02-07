@@ -1,4 +1,4 @@
-document.write('<style> #ad_top img{width:100%;} @media only screen and (min-width:0px) and (max-width:980px){ .max30h { max-height:28px !important; } .max170h { max-height:170px !important; }}</style>');
+document.write('<style> #ad_top img{width:100%;} @media only screen and (min-width:0px) and (max-width:980px){.bottom_fixed{ position:fixed; bottom:0px; width:100%; z-index:9999;} .bottom_fixed div{ width:30px; height:30px; text-align:center; line-height:30px; background:#CCC; right:0; top:-30px; position:absolute; cursor:pointer;}.bottom_fixed div:hover{ background:#F66; color:#FFF}.bottom_fixed a img{ width:100%;} .max30h { max-height:28px !important; } .max170h { max-height:170px !important; }}</style>');
 
 
 $('#ad_top').append(''+
@@ -28,9 +28,9 @@ $('#ad_top').append(''+
 '<a href="https://5.1325222.com/vote_topic_4704402.do" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/O1CN01D3oGod2C3UjllfPPp_!!2201195948418-0-cib.jpg"></a>'+
 //'<a href="https://c4tt7.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/tiantian-160.gif"></a>'+
 //'<a href="https://vv56a.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-wns-1.gif"></a>'+
-//'<a href="https://xx6epj.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-xpj-1.gif"></a>'+
+'<a href="https://xx6epj.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-xpj-1.gif"></a>'+
 //'<a href="https://y82yl.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-ylhg-xn.gif"></a>'+
-//'<a href="https://hjd56.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/huangjin-xn.gif"></a>'+
+'<a href="https://hjd56.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/huangjin-xn.gif"></a>'+
 '<a href="http://jtfgh.com?xyg" rel="external nofollow" target="_blank"><img src="https://www.1990tu.com/i/202101080150397lk.gif"></a>'+
 '<a href="http://jtfgh.com?xyg" rel="external nofollow" target="_blank"><img src="https://www.1990tu.com/i/202101080150397lk.gif"></a>'+
 '<a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a>'+
@@ -62,4 +62,10 @@ if(location.href.indexOf('play')>0)
 	  } else {
 		document.write('<script src="https://govbeijing.cn:4443/ty/x-3128-33.js"><\/script>');
 	}
+}else
+{
+	document.write('<div class="bottom_fixed"><div id="dipiao" onclick="$(\'.bottom_fixed\').hide();">X</div></div>');
+	var ad = [{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-88-120.gif","link":"https://aa8h6.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-tiantian-120.gif","link":"https://c4tt7.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-wns-120.gif","link":"https://vv56a.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-ylhg-120.gif","link":"https://y82yl.com"}];
+	var x = Math.floor(Math.random()*4);
+	$('#dipiao').before('<a href="'+ad[x].link+'" rel="nofollow" target="_blank"><img src="'+ad[x].img+'"></a>');
 }

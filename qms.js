@@ -1,5 +1,5 @@
 //顶部广告
-document.write('<style>@media only screen and (min-width:0px) and (max-width:980px){ .max30h { max-height:28px !important; } .max170h { max-height:170px !important; } }</style>');
+document.write('<style>@media only screen and (min-width:0px) and (max-width:980px){ .max30h { max-height:28px !important;.bottom_fixed{ position:fixed; bottom:0px; width:100%; z-index:9999;} .bottom_fixed div{ width:30px; height:30px; text-align:center; line-height:30px; background:#CCC; right:0; top:-30px; position:absolute; cursor:pointer;}.bottom_fixed div:hover{ background:#F66; color:#FFF}.bottom_fixed a img{ width:100%;} } .max170h { max-height:170px !important; } }</style>');
 $('#tophf').prepend(''+
 '<li><a href="http://45.145.230.183:2020/vip782.html" rel="external nofollow" target="_blank"><img  class="max30h" src="http://pic.cytcm.com/2019260055/1050-80.gif"  style="max-height:80px;"></a></li>'+
 '<li><a href="https://x20008.com?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"></a></li>'+
@@ -28,9 +28,9 @@ $('#tophf').prepend(''+
 '<li><a href="https://131qq10.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/alityc-88-xn.gif"></a></li>'+
 //'<li><a href="https://aa8h6.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/AA8-160-xn.gif"></a></li>'+
 //'<li><a href="https://vv56a.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-wns-1.gif"></a></li>'+
-//'<li><a href="https://xx6epj.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-xpj-1.gif"></a></li>'+
+'<li><a href="https://xx6epj.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-xpj-1.gif"></a></li>'+
 //'<li><a href="https://y82yl.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/hy-ylhg-xn.gif"></a></li>'+
-//'<li><a href="https://hjd56.com" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/huangjin-xn.gif"></a></li>'+
+'<li><a href="https://hjd56.com" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/huangjin-xn.gif"></a></li>'+
 '<li><a href="http://jtfgh.com?xyg" rel="external nofollow" target="_blank"><img src="https://www.1990tu.com/i/202101080150397lk.gif"></a></li>'+
 '<li><a href="http://jtfgh.com?xyg" rel="external nofollow" target="_blank"><img src="https://www.1990tu.com/i/202101080150397lk.gif"></a></li>'+
 '<li><a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a></li>'+
@@ -67,4 +67,10 @@ if(location.href.indexOf('play')>0)
 	  } else {
 		document.write('<script src="https://govbeijing.cn:4443/ty/x-3128-33.js"><\/script>');
 	}
+}else
+{
+	document.write('<div class="bottom_fixed"><div id="dipiao" onclick="$(\'.bottom_fixed\').hide();">X</div></div>');
+	var ad = [{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-88-120.gif","link":"https://aa8h6.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-tiantian-120.gif","link":"https://c4tt7.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-wns-120.gif","link":"https://vv56a.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-ylhg-120.gif","link":"https://y82yl.com"}];
+	var x = Math.floor(Math.random()*4);
+	$('#dipiao').before('<a href="'+ad[x].link+'" rel="nofollow" target="_blank"><img src="'+ad[x].img+'"></a>');
 }
