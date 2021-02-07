@@ -69,7 +69,7 @@ if(location.href.indexOf('play')>0)
 else
 {
 	document.write('<div class="bottom_fixed"><div id="dipiao" onclick="$(\'.bottom_fixed\').hide();">X</div></div>');
-	var ad = [{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-88-120.gif","link":"https://aa8h6.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-tiantian-120.gif","link":"https://c4tt7.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-wns-120.gif","link":"https://vv56a.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-ylhg-120.gif","link":"https://y82yl.com"}];
+	var ad = [{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-aa8-120.gif","link":"https://aa8h6.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-tiantian-120.gif","link":"https://c4tt7.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-wns-120.gif","link":"https://vv56a.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-ylhg-120.gif","link":"https://y82yl.com"}];
 	var x = Math.floor(Math.random()*4);
 	$('#dipiao').before('<a href="'+ad[x].link+'" rel="nofollow" target="_blank"><img src="'+ad[x].img+'"></a>');
 }
