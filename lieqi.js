@@ -17,7 +17,7 @@ $('#tophf').prepend(''+
 '<a href="http://2207011.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337735.com/7996ea7b28e2482987289466ec3fcd25.gif"></a>'+
 '<a href="http://2207011.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337735.com/7996ea7b28e2482987289466ec3fcd25.gif"></a>'+
 //'<a href="https://aa8h6.com" rel="external nofollow" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/AA8-160-xn.gif"></a>'+
-'<a href="http://2227044.com/#/?register=1" rel="external nofollow" target="_blank"><img src="http://www.1990tu.com/i/202102021714194bd.gif"></a>'+
+'<a href="http://2227044.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://jehudf.com/edb492d16c4a4a95bc058967d201a3c8.gif"></a>'+
 '<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="https://ae02.alicdn.com/kf/Ha5bf0be010f74aad886897a31ec8af66L.jpg"></a>'+
 '<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="https://ae02.alicdn.com/kf/Ha5bf0be010f74aad886897a31ec8af66L.jpg"></a>'+
 '<a href="https://x352.cc" rel="external nofollow" target="_blank"><img src="https://ae02.alicdn.com/kf/Ha5bf0be010f74aad886897a31ec8af66L.jpg"></a>'+
