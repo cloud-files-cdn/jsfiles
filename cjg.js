@@ -36,8 +36,8 @@ $('.vodbody').before('<div class="topad wr">'+
 '<a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a>'+
 '<a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a>'+
 '<a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a>'+
-'<a href="http://3336995.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337751.com/95b85b41f67749b2a9749c94b2610512.gif"></a>'+
-'<a href="http://3336995.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337751.com/95b85b41f67749b2a9749c94b2610512.gif"></a>'+
+'<a href="http://3333856.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337751.com/95b85b41f67749b2a9749c94b2610512.gif"></a>'+
+'<a href="http://3333856.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337751.com/95b85b41f67749b2a9749c94b2610512.gif"></a>'+
 '<a href="http://1706397.com/?register=1" rel="external nofollow" target="_blank"><img src="https://3337738.com/c47534bc1f4a47b890bd2a7cbfa00371.gif"></a>'+
 '<a href="http://1706397.com/?register=1" rel="external nofollow" target="_blank"><img src="https://3337738.com/c47534bc1f4a47b890bd2a7cbfa00371.gif"></a>'+
 '<a href="http://gzxjzc.com/?k48" rel="external nofollow" target="_blank"><img class="max30h" src="https://alime-pic.oss-cn-hangzhou.aliyuncs.com/file/1597500702761/960x85.gif"></a>'+
