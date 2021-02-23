@@ -35,12 +35,8 @@ $('#tophf').prepend(''+
 '<li><a href="http://hhtzff.com/?xyg168" rel="external nofollow" target="_blank"><img class="max30h" src="https://cbu01.alicdn.com/img/ibank/2018/273/940/8576049372_872274545.jpg"></a></li>'+
 '<li><a href="http://3333856.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337751.com/95b85b41f67749b2a9749c94b2610512.gif"></a></li>'+
 '<li><a href="http://3333856.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337751.com/95b85b41f67749b2a9749c94b2610512.gif"></a></li>'+
-'<li><a href="http://1706397.com/?register=1" rel="external nofollow" target="_blank"><img src="https://qfihdr.com/b4f0b36b0e1f4a6bb51f516d361338d8.gif"></a></li>'+
-'<li><a href="http://1706397.com/?register=1" rel="external nofollow" target="_blank"><img src="https://qfihdr.com/b4f0b36b0e1f4a6bb51f516d361338d8.gif"></a></li>'+
 '<li><a href="https://7595527.com/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3337738.com/109bec225ce34533a5a0a0f5a3816db2.gif"></a></li>'+
 '<li><a href="https://7595527.com/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3337738.com/109bec225ce34533a5a0a0f5a3816db2.gif"></a></li>'+
-'<li><a href="https://1035507.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://qfihdr.com/9a96b937d358492e804d3b36354d0b82.gif"></a></li>'+
-'<li><a href="https://1035507.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://qfihdr.com/9a96b937d358492e804d3b36354d0b82.gif"></a></li>'+
 '');
 
 
