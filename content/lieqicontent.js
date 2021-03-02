@@ -43,5 +43,5 @@ $('.movie_list .title h2').eq(0).after('<span style="color:#fff;float:right;">�
 
 
 $('.nav_bar_r').prepend('<a href="/files/lieqizhijia.apk" target="_blank">安卓APP客户端</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/发布器（口令：猎奇之家）.zip" target="_blank">下载Windows版地址发布器（稳定防封）</a>');
-$('#fdlink').prepend('<a href="https://idiyifulidaohang.space/?lieqizz" target="_blank">第一福利导航</a><a href="https://ctxdaohang.com/?lieqizz" target="_blank">藏天下福利导航</a><a href="https://fendianfuli.com/?lieqizz" target="_blank">粉点福利导航</a><a href="https://huai123.me/?lieqizz" target="_blank">坏123导航</a><a href="https://每日福利导航.com/?lieqizz" target="_blank">每日福利导航</a><a href="https://hjd56.com" style="color:red;" target="_blank">黄金岛娱乐</a>');
+$('#fdlink').prepend('<a href="https://idiyifulidaohang.space/?lieqizz" target="_blank">第一福利导航</a><a href="https://ctxdaohang.com/?lieqizz" target="_blank">藏天下福利导航</a><a href="https://fendianfuli.com/?lieqizz" target="_blank">粉点福利导航</a><a href="https://huai123.me/?lieqizz" target="_blank">坏123导航</a><a href="https://每日福利导航.com/?lieqizz" target="_blank">每日福利导航</a><a href="https://bbinnv.com/" target="_blank">权威博彩导航</a>');
 $('.downplayer').prepend('<h1>永久免费、更新及时，请务必收藏地址发布页，并发送邮件获取回家的路！</h1>');
