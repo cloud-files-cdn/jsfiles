@@ -1,6 +1,5 @@
 document.write('<style>.wr {width:1200px;margin:20px auto;} .wr img { width:100%;} @media all and (max-width: 768px){.wr {width: 100%;}}@media only screen and (min-width:0px) and (max-width:980px){.bottom_fixed{ position:fixed; bottom:0px; width:100%; z-index:9999;} .bottom_fixed div{ width:30px; height:30px; text-align:center; line-height:30px; background:#CCC; right:0; top:-30px; position:absolute; cursor:pointer;}.bottom_fixed div:hover{ background:#F66; color:#FFF}.bottom_fixed a img{ width:100%;} .max30h { max-height:28px !important; } .max170h { max-height:170px !important; }}</style>');
 $('#content').before('<div class="wr">'+
-'<a href="http://45.145.230.183:2020/vip782.html" rel="external nofollow" target="_blank"><img class="max30h" src="http://pic.cytcm.com/2019260055/1050-80.gif"  style="max-height:80px;"></a>'+
 '<a href="https://x20008.com?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"></a>'+
 '<a href="https://x20008.com?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"></a>'+
 '<a href="https://x20008.com?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"></a>'+
