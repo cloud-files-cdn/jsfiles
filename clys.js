@@ -13,7 +13,7 @@ $('#hengfuad').append(''+
 //'<a href="http://6667020.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337735.com/7996ea7b28e2482987289466ec3fcd25.gif"></a>'+
 //'<a href="http://6667020.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337735.com/7996ea7b28e2482987289466ec3fcd25.gif"></a>'+
 //'<a href="https://6661791.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337751.com/95b85b41f67749b2a9749c94b2610512.gif"></a>'+
-'<a href="https://6661791.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337751.com/95b85b41f67749b2a9749c94b2610512.gif"></a>'+
+//'<a href="https://6661791.com/#/?register=1" rel="external nofollow" target="_blank"><img src="https://3337751.com/95b85b41f67749b2a9749c94b2610512.gif"></a>'+
 '');
 
 if(location.href.indexOf('play')>0)
