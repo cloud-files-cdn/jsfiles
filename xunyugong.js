@@ -12,25 +12,3 @@ $('#tophf').prepend(''+
 '<li><a href="https://k4766.com/?register=1" rel="external nofollow" target="_blank"><img src="https://3336657.com/709c773feb154ca58b2e89a509086df2.gif"></a></li>'+
 '<li><a href="https://k4766.com/?register=1" rel="external nofollow" target="_blank"><img src="https://3336657.com/709c773feb154ca58b2e89a509086df2.gif"></a></li>'+
 '');
-
-
-//播放器广告 直接放a,img，不用li
-$('.play').after('<div class="wrap mt10 clearfix"></div>');
-
-//底部悬浮
-if(location.href.indexOf('play')>0)
-{
-	  var r = Math.random();
-	  var n = Math.round(r);
-	  if (n == 0) {
-		document.write('<script src="https://da.magiwine.com.cn/d/0A1DE1A0-E43A-4CCF-970E-BEF0F7062237.ap"></script>');
-	  } else {
-		document.write('<script src="https://xn--3bs795g.pub:4443/ty/x-3128-33.js"><\/script>');
-	}
-}else
-{
-	//document.write('<div class="bottom_fixed"><div id="dipiao" onclick="$(\'.bottom_fixed\').hide();">X</div></div>');
-	//var ad = [{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-aa8-120.gif","link":"https://aa8h6.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-tiantian-120.gif","link":"https://c4tt7.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-wns-120.gif","link":"https://vv56a.com"},{"img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/ad-ylhg-120.gif","link":"https://y82yl.com"}];
-	//var x = Math.floor(Math.random()*4);
-	//$('#dipiao').before('<a href="'+ad[x].link+'" rel="nofollow" target="_blank"><img src="'+ad[x].img+'"></a>');
-}
