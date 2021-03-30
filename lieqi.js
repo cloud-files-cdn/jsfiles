@@ -2,8 +2,8 @@ document.write('<style> #tophf img{width:100%;} @media only screen and (min-widt
 
 
 $('#tophf').prepend(''+
-'<a href="https://x20008.com?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"></a>'+
-'<a href="https://x20008.com?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"></a>'+
+'<a href="https://x888600.com/?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"></a>'+
+'<a href="https://x888600.com/?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"></a>'+
 '<a href="https://v63399.com?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://3337785.com/214402b0b3454f61ba25b5a0992b4b96.gif"></a>'+
 '<a href="https://v63399.com?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://3337785.com/214402b0b3454f61ba25b5a0992b4b96.gif"></a>'+
 '<a href="https://s53999.com/?register=1" rel="external nofollow" target="_blank"><img class="max30h" src="https://3336672.com/0b0e46c02b2a4c099477bd6435a9701c.gif"></a>'+
