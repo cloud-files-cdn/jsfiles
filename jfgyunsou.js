@@ -1,1 +1,1 @@
-$('.b-listtab-main').eq(0).after('<a href="https://kelefandianshipin000.com/?code=x31" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/pagepapa0411.png" style="width:100%;"  /></a>');
+$('.b-listtab-main').eq(0).after('<a style="margin-top:15px;" href="https://kelefandianshipin000.com/?code=x31" target="_blank"><img src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/pagepapa0411.png" style="width:100%;"  /></a>');
