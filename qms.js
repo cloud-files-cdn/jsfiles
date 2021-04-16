@@ -8,6 +8,6 @@ var arr = [{"link":"https://x888600.com/?register=1","img":"https://5551722.com/
 arr.sort(randomsort);
 for(key in arr)
 {
-	$('#tophf').append('<a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img class="max30h" src="'+arr[key].img+'"></a>');
-	$('#tophf').append('<a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img class="max30h" src="'+arr[key].img+'"></a>');
+	$('#tophf').append('<li><a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img class="max30h" src="'+arr[key].img+'"></a></li>');
+	$('#tophf').append('<li><a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img class="max30h" src="'+arr[key].img+'"></a></li>');
 }
