@@ -5,8 +5,8 @@ $('#content').before('<div id="ad_top_cmwl" class="wr"></div>');
 function randomsort(a, b) {
     return Math.random()>.5 ? -1 : 1;
 }
-var arr = [{"link":"https://x888600.com/?register=1","img":"https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"},{"link":"https://v63399.com?register=1","img":"https://3337785.com/214402b0b3454f61ba25b5a0992b4b96.gif"},{"link":"https://s53999.com/?register=1","img":"https://3336672.com/0b0e46c02b2a4c099477bd6435a9701c.gif"},{"link":"https://t888996.com/?register=1","img":"https://hangoutairbags.com/1e48c9f8704b49c085f22dec390fe4c5.gif"},{"link":"https://k4766.com/?register=1","img":"https://3336657.com/709c773feb154ca58b2e89a509086df2.gif"}];
-arr.sort(randomsort);
+var arr = [{"link":"https://v5803.com?register=1","img":"https://lvchichecheng.com/e42e80e9879346aaa9af95707ff337ca.gif"},{"link":"https://t888996.com/?register=1","img":"https://700nmshnz.com/ee1c41777da0479f92faa6755973e7c4.gif"},{"link":"https://x888600.com/?register=1","img":"https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"},{"link":"https://k4766.com/?register=1","img":"https://3336657.com/709c773feb154ca58b2e89a509086df2.gif"},{"link":"https://v63399.com?register=1","img":"https://3337785.com/214402b0b3454f61ba25b5a0992b4b96.gif"}];
+//arr.sort(randomsort);
 for(key in arr)
 {
 	$('#ad_top_cmwl').append('<a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img class="max30h" src="'+arr[key].img+'"></a>');
