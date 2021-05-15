@@ -12,3 +12,10 @@ for(key in arr)
 	$('.modown-ad').append('<a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img class="max30h" src="'+arr[key].img+'"></a>');
 }
 
+
+document.write('<div class="bottom_fixed"><div id="dipiao" onclick="$(\'.bottom_fixed\').hide();">X</div></div>');
+
+var ad = [{"img":"https://suzjinji.com/e3a619294b3e47b3bdbd02dd73afc396.gif","link":"https://t888996.com/?register=1"},{"img":"https://bjytdqwx.com/fa987933d36d46df841fd40dfd2e0f28.jpg","link":"https://v5803.com?register=1"},{"img":"https://suzjinji.com/e3a619294b3e47b3bdbd02dd73afc396.gif","link":"https://x888600.com/?register=1"}];
+var x = Math.floor(Math.random()*3);
+$('#dipiao').before('<a href="'+ad[x].link+'" rel="nofollow" target="_blank"><img src="'+ad[x].img+'"></a>');
+$('body').height($('body').height()+200);
