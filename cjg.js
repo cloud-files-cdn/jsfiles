@@ -4,7 +4,7 @@ $('.vodbody').before('<div id="ad_top_cjg" class="topad wr"></div>');
 function randomsort(a, b) {
     return Math.random()>.5 ? -1 : 1;
 }
-var arr = [{"link":"https://v5803.com?register=1","img":"https://lvchichecheng.com/e42e80e9879346aaa9af95707ff337ca.gif"},{"link":"https://t888996.com/?register=1","img":"https://700nmshnz.com/ee1c41777da0479f92faa6755973e7c4.gif"},{"link":"https://x888600.com/?register=1","img":"https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"},{"link":"https://k4766.com/?register=1","img":"https://3336657.com/709c773feb154ca58b2e89a509086df2.gif"},{"link":"https://v63399.com?register=1","img":"https://3337785.com/214402b0b3454f61ba25b5a0992b4b96.gif"}];
+var arr = [{"link":"https://v5803.com?register=1","img":"https://lvchichecheng.com/e42e80e9879346aaa9af95707ff337ca.gif"},{"link":"https://t888996.com/?register=1","img":"https://700nmshnz.com/ee1c41777da0479f92faa6755973e7c4.gif"},{"link":"https://x28885.com/?register=1","img":"https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"},{"link":"https://k4766.com/?register=1","img":"https://3336657.com/709c773feb154ca58b2e89a509086df2.gif"},{"link":"https://v63399.com?register=1","img":"https://3337785.com/214402b0b3454f61ba25b5a0992b4b96.gif"}];
 //arr.sort(randomsort);
 
 for(key in arr)
@@ -16,7 +16,7 @@ for(key in arr)
 
 document.write('<div class="bottom_fixed"><div id="dipiao" onclick="$(\'.bottom_fixed\').hide();">X</div></div>');
 
-var ad = [{"img":"https://suzjinji.com/e3a619294b3e47b3bdbd02dd73afc396.gif","link":"https://t888996.com/?register=1"},{"img":"https://bjytdqwx.com/fa987933d36d46df841fd40dfd2e0f28.jpg","link":"https://v5803.com?register=1"},{"img":"https://suzjinji.com/e3a619294b3e47b3bdbd02dd73afc396.gif","link":"https://x888600.com/?register=1"}];
+var ad = [{"img":"https://suzjinji.com/e3a619294b3e47b3bdbd02dd73afc396.gif","link":"https://t888996.com/?register=1"},{"img":"https://bjytdqwx.com/fa987933d36d46df841fd40dfd2e0f28.jpg","link":"https://v5803.com?register=1"},{"img":"https://suzjinji.com/e3a619294b3e47b3bdbd02dd73afc396.gif","link":"https://x28885.com/?register=1"}];
 var x = Math.floor(Math.random()*3);
 $('#dipiao').before('<a href="'+ad[x].link+'" rel="nofollow" target="_blank"><img src="'+ad[x].img+'"></a>');
 $('body').height($('body').height()+200);
