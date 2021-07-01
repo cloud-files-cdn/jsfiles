@@ -12,8 +12,8 @@ var arr = [{"link":"https://h8814.com:789?register=1","img":"https://j872jd.com/
 
 for(key in arr)
 {
-	$('#ad_top_cjg').append('<a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img class="max30h" src="'+arr[key].img+'"></a>');
-	$('#ad_top_cjg').append('<a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img class="max30h" src="'+arr[key].img+'"></a>');
+	$('#ad_top_cjg').append('<a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img  src="'+arr[key].img+'"></a>');
+	$('#ad_top_cjg').append('<a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img  src="'+arr[key].img+'"></a>');
 }
 
 /*
