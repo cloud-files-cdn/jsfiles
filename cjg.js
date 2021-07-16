@@ -6,16 +6,21 @@ function randomsort(a, b) {
 }
 
 //$('#ad_top_cjg').append('<a href="https://h8814.com:789?register=1" rel="external nofollow" target="_blank"><img src="https://ahwangtao.com/34f64f19ad9443acb79afe8e36f7fb04.gif"></a>');
-
+/*
 var arr = [{"link":"https://h8814.com:789?register=1","img":"https://j872jd.com/1d86d740f03e4853ae652616b3a23db7.gif"},{"link":"https://v13012.com:9443?register=1","img":"https://xajyyx.cn/cf4602f477704e3490ad566df2d6676f.gif"},{"link":"https://k4766.com:789?register=1","img":"https://wwwqdxingmaigg.com/df8156001af344919271f8e1327f1b3b.gif"}];
 //arr.sort(randomsort);
 
 for(key in arr)
 {
 	$('#ad_top_cjg').append('<a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img  src="'+arr[key].img+'"></a>');
-	$('#ad_top_cjg').append('<a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img  src="'+arr[key].img+'"></a>');
 }
-
+*/
+$('#ad_top_cjg').append(''+
+'<a href="https://h8814.com:789?register=1" rel="external nofollow" target="_blank"><img  src="https://j872jd.com/1d86d740f03e4853ae652616b3a23db7.gif"></a>'+
+'<a href="https://v13012.com:9443?register=1" rel="external nofollow" target="_blank"><img  src="https://xajyyx.cn/cf4602f477704e3490ad566df2d6676f.gif"></a>'+
+'<a href="https://k4766.com:789?register=1" rel="external nofollow" target="_blank"><img  src="https://wwwqdxingmaigg.com/df8156001af344919271f8e1327f1b3b.gif"></a>'+
+'<a href="https://v01255.com:4494/?register=1" rel="external nofollow" target="_blank"><img  src="https://3336653.com/61d94745f4504ce48014b0df6184f759.gif"></a>'+
+'');
 /*
 document.write('<div class="bottom_fixed"><div id="dipiao" onclick="$(\'.bottom_fixed\').hide();">X</div></div>');
 
