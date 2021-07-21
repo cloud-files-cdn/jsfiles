@@ -1,6 +1,6 @@
 var url = location.href;
 
-var arr = [{"link":"http://z2.10086ha-dfl.com:6377/210649668","img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/hengfu-xpj.gif"},{"link":"http://z2.songyuelongju.com:151/81904592","img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/hengfu-jinsha.gif"},{"link":"https://v13012.com:9443?register=1","img":"https://xajyyx.cn/cf4602f477704e3490ad566df2d6676f.gif"},{"link":"https://k4766.com:789?register=1","img":"https://wwwqdxingmaigg.com/df8156001af344919271f8e1327f1b3b.gif"}];
+var arr = [{"link":"http://250.rookiego.com:250/210621285","img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/hengfu-xpj.gif"},{"link":"http://151.rookiego.com:151/81909425","img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/hengfu-jinsha.gif"},{"link":"https://t4112.com:6663?register=1","img":"https://silensea.net/d3e1e68ee6ad460f9849c13f952d0852.gif"},{"link":"https://v34581.com:7663?register=1","img":"https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"}];
 
 var x = Math.round(Math.random()*4);
 
