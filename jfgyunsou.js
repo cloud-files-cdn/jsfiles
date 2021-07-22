@@ -1,6 +1,6 @@
 var url = location.href;
 
-var arr = [{"link":"http://250.rookiego.com:250/210621285","img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/hengfu-xpj.gif"},{"link":"http://151.rookiego.com:151/81909425","img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/hengfu-jinsha.gif"},{"link":"https://t4112.com:6663?register=1","img":"https://silensea.net/d3e1e68ee6ad460f9849c13f952d0852.gif"},{"link":"https://v34581.com:7663?register=1","img":"https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"}];
+var arr = [{"link":"http://250.rookiego.com:250/210621285","img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/hengfu-xpj.gif"},{"link":"http://151.rookiego.com:151/81909425","img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/hengfu-jinsha.gif"},{"link":"https://t4112.com:6663?register=1","img":"https://silensea.net/d3e1e68ee6ad460f9849c13f952d0852.gif"},{"link":"https://v34581.com:7443?register=1","img":"https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"}];
 
 var x = Math.round(Math.random()*4);
 
