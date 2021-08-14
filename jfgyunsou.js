@@ -2,7 +2,7 @@ var url = location.href;
 
 var arr = [{"link":"http://250.rookiego.com:250/210621285","img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/hengfu-xpj.gif"},{"link":"http://151.rookiego.com:151/81909425","img":"https://cdn.jsdelivr.net/gh/cloud-files/imgs/hengfu-jinsha.gif"},{"link":"https://t4112.com:6443?register=1","img":"https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"},{"link":"https://v34581.com:7443?register=1","img":"https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"},{"link":"https://www.x2682.com:5443?register=1","img":"https://glasslock-gmc.com/2354ad14955c4e1f8a8696b73339f474.gif"}];
 
-var x = Math.round(Math.random()*4);
+var x = Math.round(Math.random()*5);
 
 if(url.indexOf('search')>0 || url.indexOf('content')>0)
 {
