@@ -20,7 +20,7 @@ $('#ad_top_cmwl').append(''+
 '<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://glasslock-gmc.com/2354ad14955c4e1f8a8696b73339f474.gif"></a>'+
 '<a href="https://t4112.com:6443?register=1" rel="external nofollow" target="_blank"><img  src="https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"></a>'+
 '<a href="https://v34581.com:7443?register=1" rel="external nofollow" target="_blank"><img  src="https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"></a>'+
-'<a href="https://v01255.com:4494/?register=1" rel="external nofollow" target="_blank"><img  src="https://3336637.com/78324e786cc348df94814b6ffc2eaf71.gif"></a>'+
+'<a href="https://6536609.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3336637.com/80e16b0c16f640a2836259b0326d7fbf.gif"></a>'+
 '<a href="https://422317.com:8663?register=1" rel="external nofollow" target="_blank"><img  src="https://3338671.com/a344215f67804a9a94f74f75f0c1c2ab.gif"></a>'+
 '');
 
