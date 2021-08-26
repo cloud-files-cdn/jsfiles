@@ -19,6 +19,7 @@ $('.modown-ad').append(''+
 '<a href="https://v34581.com:7443?register=1" rel="external nofollow" target="_blank"><img  src="https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"></a>'+
 '<a href="https://6536609.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3336637.com/80e16b0c16f640a2836259b0326d7fbf.gif"></a>'+
 '<a href="https://422317.com:8663?register=1" rel="external nofollow" target="_blank"><img  src="https://3338671.com/a344215f67804a9a94f74f75f0c1c2ab.gif"></a>'+
+'<a href="http://vinbet.vip" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/adamkoo-0826.gif"></a>'+
 '');
 
 /*
