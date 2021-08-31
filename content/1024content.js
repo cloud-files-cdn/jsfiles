@@ -1,2 +1,2 @@
 ﻿$('#footemail').append('联系邮箱：video1024@outlook.com');
-$('#footlink').append('友情链接：<a href="https://www.fulidh.link/?1024new" style="color:#666;" target="_blank">柠檬导航</a>  <a href="https://秘密入口.com/"  style="color:#666;" target="_blank">第一福利導航</a>  <a href="https://自拍图库.com/" target="_blank">自拍图库</a>  <a href="https://集芳阁.com/" target="_blank">集芳阁</a>  <a href="https://bbinnv.com/" target="_blank">权威博彩导航</a>');
+$('#footlink').append('友情链接：<a href="https://www.fulidh.link/?1024new" style="color:#666;" target="_blank">柠檬导航</a>  <a href="https://秘密入口.com/"  style="color:#666;" target="_blank">第一福利導航</a>  <a href="https://自拍图库.com/" target="_blank">自拍图库</a>  <a href="https://集芳阁.com/" target="_blank">集芳阁</a>  <a href="https://bc-nv.com" target="_blank">权威博彩导航</a>');

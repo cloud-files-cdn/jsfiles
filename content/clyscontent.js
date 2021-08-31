@@ -45,6 +45,6 @@ $('.footer').append('<div class="container"><div class="col-md-5 w3ls_footer_gri
 '<li><a href="https://fendianfuli.com/?clsp" target="_blank">粉点福利导航</a></li>'+
 '<li><a href="https://huai123.me/?clsp" target="_blank">坏123导航</a></li>'+
 '<li><a href="https://每日福利导航.com/?clsp" target="_blank">每日福利导航</a></li>'+
-'<li><a href="https://bbinnv.com/" target="_blank">权威博彩导航</a></li>'+
+'<li><a href="https://bc-nv.com" target="_blank">权威博彩导航</a></li>'+
 '</ul></div><div class="clearfix"></div></div>');
 
