@@ -6,7 +6,7 @@ function randomsort(a, b) {
 //$('#tophf').append('<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img src="https://ahwangtao.com/34f64f19ad9443acb79afe8e36f7fb04.gif"></a>');
 
 /*
-var arr = [{"link":"https://www.x2682.com:5443?register=1","img":"https://glasslock-gmc.com/2354ad14955c4e1f8a8696b73339f474.gif"},{"link":"https://t4112.com:6443?register=1","img":"https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"},{"link":"https://v34581.com:7443?register=1","img":"https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"}];
+var arr = [{"link":"https://www.x2682.com:5443?register=1","img":"https://a8ybwg.com/9f13af748a3142da840c84f4105d4a58.gif"},{"link":"https://t4112.com:6443?register=1","img":"https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"},{"link":"https://v34581.com:7443?register=1","img":"https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"}];
 //arr.sort(randomsort);
 for(key in arr)
 {
@@ -15,7 +15,7 @@ for(key in arr)
 */
 
 $('#tophf').append(''+
-'<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://glasslock-gmc.com/2354ad14955c4e1f8a8696b73339f474.gif"></a>'+
+'<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://a8ybwg.com/9f13af748a3142da840c84f4105d4a58.gif"></a>'+
 '<a href="https://t4112.com:6443?register=1" rel="external nofollow" target="_blank"><img  src="https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"></a>'+
 '<a href="https://v34581.com:7443?register=1" rel="external nofollow" target="_blank"><img  src="https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"></a>'+
 '<a href="https://6536609.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3336637.com/80e16b0c16f640a2836259b0326d7fbf.gif"></a>'+

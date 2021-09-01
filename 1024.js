@@ -6,7 +6,7 @@ function randomsort(a, b) {
 }
 //$('#ad_top').append('<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img src="https://ahwangtao.com/34f64f19ad9443acb79afe8e36f7fb04.gif"></a>');
 /*
-var arr = [{"link":"https://www.x2682.com:5443?register=1","img":"https://glasslock-gmc.com/2354ad14955c4e1f8a8696b73339f474.gif"},{"link":"https://t4112.com:6443?register=1","img":"https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"},{"link":"https://v34581.com:7443?register=1","img":"https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"}];
+var arr = [{"link":"https://www.x2682.com:5443?register=1","img":"https://a8ybwg.com/9f13af748a3142da840c84f4105d4a58.gif"},{"link":"https://t4112.com:6443?register=1","img":"https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"},{"link":"https://v34581.com:7443?register=1","img":"https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"}];
 //var arr = [{"link":"https://t4112.com:6443?register=1","img":"https://lvchichecheng.com/e42e80e9879346aaa9af95707ff337ca.gif"},{"link":"https://t888996.com:789?register=1","img":"https://700nmshnz.com/ee1c41777da0479f92faa6755973e7c4.gif"},{"link":"https://x28885.com:789?register=1","img":"https://5551722.com/452094222bb8448596bf5b67d27a2a39.gif"},{"link":"https://v34581.com:7443?register=1","img":"https://3336657.com/709c773feb154ca58b2e89a509086df2.gif"},{"link":"https://v63399.com:789?register=1","img":"https://3337785.com/214402b0b3454f61ba25b5a0992b4b96.gif"}];
 //arr.sort(randomsort);
 for(key in arr)
@@ -15,7 +15,7 @@ for(key in arr)
 }
 */
 $('#ad_top').append(''+
-'<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://glasslock-gmc.com/2354ad14955c4e1f8a8696b73339f474.gif"></a>'+
+'<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://a8ybwg.com/9f13af748a3142da840c84f4105d4a58.gif"></a>'+
 '<a href="https://t4112.com:6443?register=1" rel="external nofollow" target="_blank"><img  src="https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"></a>'+
 '<a href="https://v34581.com:7443?register=1" rel="external nofollow" target="_blank"><img  src="https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"></a>'+
 '<a href="https://6536609.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3336637.com/80e16b0c16f640a2836259b0326d7fbf.gif"></a>'+
