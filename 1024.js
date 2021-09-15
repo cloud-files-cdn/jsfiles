@@ -1,4 +1,4 @@
-document.write('<style>#ad_top{margin:10px auto !important;} #ad_top img{width:100%;} @media only screen and (min-width:0px) and (max-width:980px){.bottom_fixed{ position:fixed; bottom:0px; width:100%; z-index:9999;} .bottom_fixed div{ width:30px; height:30px; text-align:center; line-height:30px; background:#CCC; right:0; top:-30px; position:absolute; cursor:pointer;}.bottom_fixed div:hover{ background:#F66; color:#FFF}.bottom_fixed a img{ width:100%;} .max30h { max-height:28px !important; } .max170h { max-height:170px !important; }}</style>');
+document.write('<style>#ad_top{margin:10px auto !important;} #ad_top img{width:100%;} @media only screen and (min-width:0px) and (max-width:980px){.bottom_fixed{ position:fixed; bottom:0px; width:100%; z-index:9999;} .bottom_fixed div{ width:30px; height:30px; text-align:center; line-height:30px; background:#CCC; right:0; top:-30px; position:absolute; cursor:pointer;}.bottom_fixed div:hover{ background:#F66; color:#FFF}.bottom_fixed a img{ width:100%;} .max30h { max-height:28px !important; } .max170h { max-height:170px !important; }}.topwz{margin-top:8px;}  .topwz li {text-align: center;float: left;width: 20%;height: 40px;line-height: 40px; border: 1px solid #605e5e;} @media screen and (max-width: 750px){ .topwz li{ width:50%;} }</style>');
 
 
 function randomsort(a, b) {
@@ -26,6 +26,18 @@ $('#ad_top').append(''+
 '<a href="https://a2889.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://hangoutairbags.com/e36b601742454586a6c364aca2004be7.gif"></a>'+
 '<a href="http://vinbet.vip" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/adamkoo-0826.gif"></a>'+
 '');
+
+
+
+
+$('#ad_top').append('<div><ul class="topwz">'+
+'<li><a href="https://dysp6.me?channel=tdy626j3" rel="external nofollow" target="_blank">抖阴短视频APP</a></li>'+
+'<li><a href="https://slf537.com?_c=tslf245" rel="external nofollow" target="_blank">涩里番漫画</a></li>'+
+'<li><a href="http://www.746hrds.com?4832" rel="external nofollow" target="_blank">草莓X直播APP</a></li>'+
+'<li><a href="https://mddmp03.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a></li>'+
+'<li><a href="https://plulu.xyz/wv7svfx" rel="external nofollow" target="_blank">LuTube视频APP</a></li>'+
+'</ul></div>');
+
 /*
 document.write('<div class="bottom_fixed"><div id="dipiao" onclick="$(\'.bottom_fixed\').hide();">X</div></div>');
 
