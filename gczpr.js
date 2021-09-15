@@ -1,5 +1,5 @@
 //顶部广告
-document.write('<style>@media only screen and (min-width:0px) and (max-width:980px){.bottom_fixed{ position:fixed; bottom:0px; width:100%; z-index:9999;} .bottom_fixed div{ width:30px; height:30px; text-align:center; line-height:30px; background:#CCC; right:0; top:-30px; position:absolute; cursor:pointer;}.bottom_fixed div:hover{ background:#F66; color:#FFF}.bottom_fixed a img{ width:100%;} .max30h { max-height:28px !important; } .max170h { max-height:170px !important; } } .topwz{margin-top:8px;}  .topwz li {text-align: center;float: left;width: 20%;height: 40px;line-height: 40px; border: 1px solid #605e5e;} @media screen and (max-width: 750px){ .topwz li{ width:50%;} }</style>');
+document.write('<style>@media only screen and (min-width:0px) and (max-width:980px){.bottom_fixed{ position:fixed; bottom:0px; width:100%; z-index:9999;} .bottom_fixed div{ width:30px; height:30px; text-align:center; line-height:30px; background:#CCC; right:0; top:-30px; position:absolute; cursor:pointer;}.bottom_fixed div:hover{ background:#F66; color:#FFF}.bottom_fixed a img{ width:100%;} .max30h { max-height:28px !important; } .max170h { max-height:170px !important; } } .topwz{margin-top: 10px;line-height: 30px;} .topwz span{font-weight: bold;margin-right: 10px;} .topwz a {font-size: 16px;margin-right: 19px;display: inline-block;white-space: nowrap;} .topwz a:last-child {margin: 0px;}</style>');
 $('#play_show').before($('#topbox'));
 
 function randomsort(a, b) {
@@ -30,13 +30,13 @@ $('#topbox').append(''+
 '');
 
 
-$('#topbox').append('<div><ul class="topwz">'+
-'<li><a href="https://dysp6.me?channel=tdy626j3" rel="external nofollow" target="_blank">抖阴短视频APP</a></li>'+
-'<li><a href="https://slf537.com?_c=tslf245" rel="external nofollow" target="_blank">涩里番漫画</a></li>'+
-'<li><a href="http://www.746hrds.com?4832" rel="external nofollow" target="_blank">草莓X直播APP</a></li>'+
-'<li><a href="https://mddmp03.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a></li>'+
-'<li><a href="https://plulu.xyz/wv7svfx" rel="external nofollow" target="_blank">LuTube视频APP</a></li>'+
-'</ul></div>');
+$('#topbox').append('<div class="topwz"><span>站长推荐：</span>'+
+'<a href="https://dysp6.me?channel=tdy626j3" rel="external nofollow" target="_blank">抖阴短视频APP</a>'+
+'<a href="https://slf537.com?_c=tslf245" rel="external nofollow" target="_blank">涩里番漫画</a>'+
+'<a href="http://www.746hrds.com?4832" rel="external nofollow" target="_blank">草莓X直播APP</a>'+
+'<a href="https://mddmp03.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
+'<a href="https://plulu.xyz/wv7svfx" rel="external nofollow" target="_blank">LuTube视频APP</a>'+
+'</div>');
 /*
 document.write('<div class="bottom_fixed"><div id="dipiao" onclick="$(\'.bottom_fixed\').hide();">X</div></div>');
 
