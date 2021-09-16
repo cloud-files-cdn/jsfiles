@@ -17,7 +17,6 @@ for(key in arr)
 $('#tophf').append(''+
 '<li><a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://a8ybwg.com/9f13af748a3142da840c84f4105d4a58.gif"></a></li>'+
 '<li><a href="https://t4112.com:6443?register=1" rel="external nofollow" target="_blank"><img  src="https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"></a></li>'+
-'<li><a href="https://v34581.com:7443?register=1" rel="external nofollow" target="_blank"><img  src="https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"></a></li>'+
 '<li><a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3332855.com/f7b911500962424fb5f1f03d35b2e91b.gif"></a></li>'+
 '<li><a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3332855.com/f7b911500962424fb5f1f03d35b2e91b.gif"></a></li>'+
 '<li><a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3332855.com/f7b911500962424fb5f1f03d35b2e91b.gif"></a></li>'+
