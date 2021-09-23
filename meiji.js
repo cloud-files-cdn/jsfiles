@@ -29,9 +29,12 @@ $('#ad_top').append(''+
 '<a href="https://244043.cc" rel="external nofollow" target="_blank"><img  src="https://go.imglele.xyz/2021/09/17/edO6.gif"></a>'+
 '');
 
+var arr = new Array("https://dyzest.com/?channel=tdy626j2","https://dyzest.com/?channel=tdy626j1","https://dyzest.com?channel=tdy826j6");
+
+var x = Math.round(Math.random()*arr.length);
 
 $('#ad_top').append('<div class="topwz"><span>站长推荐：</span>'+
-'<a href="https://dysp6.me?channel=tdy626j3" rel="external nofollow" target="_blank">抖阴短视频APP</a>'+
+'<a href="'+arr[x]+'" rel="external nofollow" target="_blank">抖阴短视频APP</a>'+
 '<a href="https://slf537.com?_c=tslf245" rel="external nofollow" target="_blank">涩里番漫画</a>'+
 '<a href="http://www.746hrds.com?4832" rel="external nofollow" target="_blank">草莓X直播APP</a>'+
 '<a href="https://mddmp03.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
