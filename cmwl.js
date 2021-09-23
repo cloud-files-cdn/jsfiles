@@ -6,15 +6,7 @@ function randomsort(a, b) {
     return Math.random()>.5 ? -1 : 1;
 }
 
-//$('#ad_top_cmwl').append('<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img src="https://ahwangtao.com/34f64f19ad9443acb79afe8e36f7fb04.gif"></a>');
-/*
-var arr = [{"link":"https://www.x2682.com:5443?register=1","img":"https://78dx8t.com/d39458b107e1422e8b38a67255b58744.gif"},{"link":"https://t4112.com:6443?register=1","img":"https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"},{"link":"https://v34581.com:7443?register=1","img":"https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"}];
-//arr.sort(randomsort);
-for(key in arr)
-{
-	$('#ad_top_cmwl').append('<a href="'+arr[key].link+'" rel="external nofollow" target="_blank"><img  src="'+arr[key].img+'"></a>');
-}
-*/
+
 
 $('#ad_top_cmwl').append(''+
 '<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://78dx8t.com/d39458b107e1422e8b38a67255b58744.gif"></a>'+
@@ -44,12 +36,3 @@ $('#ad_top_cmwl').append('<div class="topwz"><span>站长推荐：</span>'+
 '<a href="https://mddmp03.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
 '<a href="https://plulu.xyz/wv7svfx" rel="external nofollow" target="_blank">LuTube视频APP</a>'+
 '</div>');
-
-/*
-document.write('<div class="bottom_fixed"><div id="dipiao" onclick="$(\'.bottom_fixed\').hide();">X</div></div>');
-
-var ad = [{"img":"https://suzjinji.com/e3a619294b3e47b3bdbd02dd73afc396.gif","link":"https://t888996.com:789?register=1"},{"img":"https://bjytdqwx.com/fa987933d36d46df841fd40dfd2e0f28.jpg","link":"https://t4112.com:6443?register=1"},{"img":"https://suzjinji.com/e3a619294b3e47b3bdbd02dd73afc396.gif","link":"https://x28885.com:789?register=1"}];
-var x = Math.floor(Math.random()*3);
-$('#dipiao').before('<a href="'+ad[x].link+'" rel="nofollow" target="_blank"><img src="'+ad[x].img+'"></a>');
-$('body').height($('body').height()+200);
-*/
