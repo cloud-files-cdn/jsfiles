@@ -18,7 +18,7 @@ $('#tophf').append(''+
 '<a href="https://a2889.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://hangoutairbags.com/e36b601742454586a6c364aca2004be7.gif"></a>'+
 '<a href="https://a2889.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://hangoutairbags.com/e36b601742454586a6c364aca2004be7.gif"></a>'+
 '<a href="http://vinbet.vip" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/adamkoo-0826.gif"></a>'+
-'<a href="https://244043.cc" rel="external nofollow" target="_blank"><img  src="https://go.imglele.xyz/2021/09/17/edO6.gif"></a>'+
+'<a href="https://244043.cc:8443/index.html?shareName=244043.cc" rel="external nofollow" target="_blank"><img  src="https://go.imglele.xyz/2021/09/17/edO6.gif"></a>'+
 '');
 
 var arr = new Array("https://dyzest.com/?channel=tdy626j2","https://dyzest.com/?channel=tdy626j1","https://dyzest.com?channel=tdy826j6");
