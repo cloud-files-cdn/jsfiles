@@ -30,5 +30,5 @@ $('#tophf').append('<div class="topwz"><span>站长推荐：</span>'+
 '<a href="https://slf537.com?_c=tslf245" rel="external nofollow" target="_blank">涩里番漫画</a>'+
 '<a href="http://www.746hrds.com?4832" rel="external nofollow" target="_blank">草莓X直播APP</a>'+
 '<a href="https://mddmp03.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
-'<a href="https://plulu.xyz/wv7svfx" rel="external nofollow" target="_blank">LuTube视频APP</a>'+
+'<a href="https://fulao2.site/r9myp" rel="external nofollow" target="_blank">Fulao2视频APP</a>'+
 '</div>');
