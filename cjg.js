@@ -7,8 +7,8 @@ function randomsort(a, b) {
 
 
 $('#ad_top_cjg').append(''+
-'<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://78dx8t.com/d39458b107e1422e8b38a67255b58744.gif"></a>'+
-'<a href="https://t4112.com:6443?register=1" rel="external nofollow" target="_blank"><img  src="https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"></a>'+
+'<a href="https://x7400.com:6443?register=1" rel="external nofollow" target="_blank"><img  src="https://78dx8t.com/d39458b107e1422e8b38a67255b58744.gif"></a>'+
+'<a href="https://t6315.com:6443?register=1" rel="external nofollow" target="_blank"><img  src="https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"></a>'+
 '<a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://6668078.com/a6cd2493e8164ae2b19428d7e14e8ff9.gif"></a>'+
 '<a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://6668078.com/a6cd2493e8164ae2b19428d7e14e8ff9.gif"></a>'+
 '<a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://6668078.com/a6cd2493e8164ae2b19428d7e14e8ff9.gif"></a>'+
