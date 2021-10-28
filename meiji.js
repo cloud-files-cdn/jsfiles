@@ -6,7 +6,7 @@ function randomsort(a, b) {
 }
 
 $('#ad_top').append(''+
-'<a href="https://x7400.com:6443?register=1" rel="external nofollow" target="_blank"><img  src="https://78dx8t.com/d39458b107e1422e8b38a67255b58744.gif"></a>'+
+'<a href="https://a3933.com:599" rel="external nofollow" target="_blank"><img  src="https://wyb6xm.com/825a5340c16347d8b6ad7c5b422f8560.gif"></a>'+
 '<a href="https://t6315.com:6443?register=1" rel="external nofollow" target="_blank"><img  src="https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"></a>'+
 '<a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
 '<a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
