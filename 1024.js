@@ -33,5 +33,5 @@ $('#ad_top').append('<div class="topwz"><span>站长推荐：</span>'+
 '<a href="'+arr[x]+'" rel="external nofollow" target="_blank">抖阴短视频APP</a>'+
 '<a href="https://mddmp03.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
 '<a href="https://fulao2.site/r9myp" rel="external nofollow" target="_blank">Fulao2视频APP</a>'+
-'<a href="https://jwhli.ehe258.com/luba4.html" rel="external nofollow" target="_blank">91撸视频APP</a>'+
+'<a href="https://jwhli.doufeifei.com/luba4.html" rel="external nofollow" target="_blank">91撸视频APP</a>'+
 '</div>');
