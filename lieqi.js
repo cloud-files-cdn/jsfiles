@@ -22,6 +22,7 @@ $('#tophf').append(''+
 '<a href="https://x3469.com:8443/index.html?shareName=x3469.com" rel="external nofollow" target="_blank"><img  src="https://kvezz.com/4937a38df63be11c11026bd8e6d7289d.gif"></a>'+
 '<a href="https://t643085.com:8443/index.html?shareName=t643085.com" rel="external nofollow" target="_blank"><img  src="https://kveaa.com/214d58a1894d64754cc83352cffa5512.gif"></a>'+
 '<a href="https://245035.cc:8443/index.html?shareName=245035.cc" rel="external nofollow" target="_blank"><img  src="https://kvemm.com/818f0140dc51e34a6d5f2b839a42376f.gif"></a>'+
+'<a href="https://hh0401.cc/?channelCode=hh0401_cc" rel="external nofollow" target="_blank"><img  src="https://kveii.com/57d661e5f29c58912fbe1623e32cfce0.gif"></a>'+
 '');
 
 var arr = new Array("https://dyzest.com/?channel=tdy626j2","https://dyzest.com/?channel=tdy626j1","https://dyzest.com?channel=tdy826j6");
@@ -33,4 +34,5 @@ $('#tophf').append('<div class="topwz"><span>站长推荐：</span>'+
 '<a href="https://mddmp03.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
 '<a href="https://fulao2.site/r9myp" rel="external nofollow" target="_blank">Fulao2视频APP</a>'+
 '<a href="https://jwhli.doufeifei.com/luba4.html" rel="external nofollow" target="_blank">91撸视频APP</a>'+
+'<a href="http://blrou05.com//?dc=bsqt30" rel="external nofollow" target="_blank">逼哩逼哩APP</a>'+
 '</div>');
