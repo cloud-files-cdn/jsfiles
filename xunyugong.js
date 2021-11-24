@@ -27,7 +27,7 @@ $('#tophf').append(''+
 '');
 
 
-var arr = new Array("https://dyzest.com/?channel=tdy626j2","https://dyzest.com/?channel=tdy626j1","https://dyzest.com?channel=tdy826j6");
+var arr = new Array("https://dy692.com/?channel=tdy626j1","https://dy692.com/?channel=tdy626j1","https://dy692.com/?channel=tdy626j1");
 
 var x = Math.round(Math.random()*arr.length);
 

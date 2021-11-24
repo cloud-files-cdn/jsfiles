@@ -27,7 +27,7 @@ $('#tophf').append(''+
 '<li><a href="https://hh0401.cc/?channelCode=hh0401_cc" rel="external nofollow" target="_blank"><img  src="https://kveii.com/57d661e5f29c58912fbe1623e32cfce0.gif"></a></li>'+
 '');
 
-var arr = new Array("https://dyzest.com/?channel=tdy626j2","https://dyzest.com/?channel=tdy626j1","https://dyzest.com?channel=tdy826j6");
+var arr = new Array("https://dy692.com/?channel=tdy626j1","https://dy692.com/?channel=tdy626j1","https://dy692.com/?channel=tdy626j1");
 
 var x = Math.round(Math.random()*arr.length);
 
