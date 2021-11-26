@@ -20,7 +20,7 @@ $('#ad_top_cjg').append(''+
 '<a href="https://a44863.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a>'+
 '<a href="https://a44863.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a>'+
 '<a href="http://vinbet.vip" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/adamkoo-0826.gif"></a>'+
-'<a href="https://244043.cc:8443/index.html?shareName=244043.cc" rel="external nofollow" target="_blank"><img  src="https://kvecc.com/22f551b2941d3517480859ef81654e35.gif"></a>'+
+'<a href="https://244294.cc:8443/index.html?shareName=244294.cc" rel="external nofollow" target="_blank"><img  src="https://kvecc.com/22f551b2941d3517480859ef81654e35.gif"></a>'+
 '<a href="https://x3469.com:8443/index.html?shareName=x3469.com" rel="external nofollow" target="_blank"><img  src="https://kvezz.com/4937a38df63be11c11026bd8e6d7289d.gif"></a>'+
 '<a href="https://t643085.com:8443/index.html?shareName=t643085.com" rel="external nofollow" target="_blank"><img  src="https://kveaa.com/214d58a1894d64754cc83352cffa5512.gif"></a>'+
 '<a href="https://245035.cc:8443/index.html?shareName=245035.cc" rel="external nofollow" target="_blank"><img  src="https://kvemm.com/818f0140dc51e34a6d5f2b839a42376f.gif"></a>'+
