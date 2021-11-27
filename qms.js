@@ -19,7 +19,6 @@ $('#tophf').append(''+
 '<li><a href="https://a44863.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a></li>'+
 '<li><a href="https://a44863.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a></li>'+
 '<li><a href="https://a44863.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a></li>'+
-'<li><a href="http://vinbet.vip" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/adamkoo-0826.gif"></a></li>'+
 '<li><a href="https://244294.cc:8443/index.html?shareName=244294.cc" rel="external nofollow" target="_blank"><img  src="https://kvecc.com/22f551b2941d3517480859ef81654e35.gif"></a></li>'+
 '<li><a href="https://x3694.com:8443/index.html?shareName=x3694.com" rel="external nofollow" target="_blank"><img  src="https://kvezz.com/4937a38df63be11c11026bd8e6d7289d.gif"></a></li>'+
 '<li><a href="https://t643135.com:8443/index.html?shareName=t643135.com" rel="external nofollow" target="_blank"><img  src="https://kveaa.com/214d58a1894d64754cc83352cffa5512.gif"></a></li>'+
