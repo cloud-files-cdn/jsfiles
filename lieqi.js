@@ -34,6 +34,5 @@ $('#tophf').append('<div class="topwz"><span>站长推荐：</span>'+
 '<a href="https://qqhjo.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
 '<a href="https://fulao2.site/r9myp" rel="external nofollow" target="_blank">Fulao2视频APP</a>'+
 '<a href="https://jwhli.91lu2020.com/luba4.html" rel="external nofollow" target="_blank">91撸视频APP</a>'+
-'<a href="http://lnfpk.com/?dc=bsqt30" rel="external nofollow" target="_blank">逼哩逼哩APP</a>'+
 '<a href="https://slf546.com?_c=tslf306" rel="external nofollow" target="_blank">涩里番成漫APP</a>'+
 '</div>');
