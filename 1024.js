@@ -14,7 +14,7 @@ $('#ad_top').append(''+
 '<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
 '<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
 '<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
-'<a href="https://422317.com:8663?register=1" rel="external nofollow" target="_blank"><img  src="https://3332655.com/728686124baf486d80e997f91af0fdfb.gif"></a>'+
+'<a href="https://4481v.com:8663?register=1" rel="external nofollow" target="_blank"><img  src="https://3335663.com/71e7f01c46ea4b22bb73b571f488b00b.gif"></a>'+
 '<a href="https://a44863.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a>'+
 '<a href="https://a44863.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a>'+
 '<a href="https://a44863.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a>'+
