@@ -22,7 +22,7 @@ $('#topbox').append(''+
 '<a href="https://a44863.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a>'+
 '<a href="https://a44863.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a>'+
 '<a href="https://244294.cc:8443/index.html?shareName=244294.cc" rel="external nofollow" target="_blank"><img  src="https://kvecc.com/22f551b2941d3517480859ef81654e35.gif"></a>'+
-'<a href="https://245035.cc:8443/index.html?shareName=245035.cc" rel="external nofollow" target="_blank"><img  src="https://kvemm.com/818f0140dc51e34a6d5f2b839a42376f.gif"></a>'+
+'<a href="https://245227.cc:8443/index.html?shareName=245227.cc" rel="external nofollow" target="_blank"><img  src="https://kvemm.com/818f0140dc51e34a6d5f2b839a42376f.gif"></a>'+
 '');
 
 var arr = new Array("https://dy692.com/?channel=tdy626j1","https://dy692.com/?channel=tdy626j1","https://dy692.com/?channel=tdy626j1");
