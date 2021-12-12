@@ -34,4 +34,5 @@ $('#tophf').append('<div class="topwz"><span>站长推荐：</span>'+
 '<a href="https://jwhli.91lu001.com/index4.html" rel="external nofollow" target="_blank">91撸视频APP</a>'+
 '<a href="https://slf546.com?_c=tslf306" rel="external nofollow" target="_blank">涩里番成漫APP</a>'+
 '<a href="https://wjy4511.cn/?channelCode=rrdyfl" target="_blank">软软成人直播APP</a>'+
+'<a href="https://migukedown.tv/?channelCode=86" target="_blank">咪咕视频APP</a>'+
 '</div>');
