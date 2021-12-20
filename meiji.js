@@ -29,7 +29,6 @@ var x = Math.round(Math.random()*arr.length);
 $('#ad_top').append('<div class="topwz"><span>站长推荐：</span>'+
 '<a href="'+arr[x]+'" rel="external nofollow" target="_blank">抖阴短视频APP</a>'+
 '<a href="https://qqhjo.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
-'<a href="https://jwhli.91lu001.com/index4.html" rel="external nofollow" target="_blank">91撸视频APP</a>'+
 '<a href="https://slf546.com?_c=tslf306" rel="external nofollow" target="_blank">涩里番成漫APP</a>'+
 '<a href="https://wjy4511.cn/?channelCode=rrdyfl" target="_blank">软软成人直播APP</a>'+
 '<a href="https://migukedown.tv/?channelCode=86" target="_blank">咪咕视频APP</a>'+
