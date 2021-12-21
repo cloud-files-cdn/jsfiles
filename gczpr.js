@@ -24,7 +24,7 @@ $('#topbox').append(''+
 '<a href="https://245227.cc:8443/index.html?shareName=245227.cc" rel="external nofollow" target="_blank"><img  src="https://kvemm.com/818f0140dc51e34a6d5f2b839a42376f.gif"></a>'+
 '');
 
-var arr = new Array("https://dy692.com/?channel=tdy626j1","https://dy692.com/?channel=tdy626j1","https://dy692.com/?channel=tdy626j1");
+var arr = new Array("https://8dwuo.com?channel=tdy626j1","https://8dwuo.com?channel=tdy626j1","https://8dwuo.com?channel=tdy626j1");
 
 var x = Math.round(Math.random()*arr.length);
 

