@@ -6,7 +6,7 @@ function randomsort(a, b) {
 }
 //$('.modown-ad').append('<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img src="https://ahwangtao.com/34f64f19ad9443acb79afe8e36f7fb04.gif"></a>');
 /*
-var arr = [{"link":"https://www.x2682.com:5443?register=1","img":"https://78dx8t.com/d39458b107e1422e8b38a67255b58744.gif"},{"link":"https://t4112.com:6443?register=1","img":"https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"},{"link":"https://v34581.com:7443?register=1","img":"https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"}];
+var arr = [{"link":"https://www.x2682.com:5443?register=1","img":"https://78dx8t.com/d39458b107e1422e8b38a67255b58744.gif"},{"link":"https://t4112.com:6443?register=1","img":"https://3337612.com/3e717385bd3241649def67e6b4ca5086.gif"},{"link":"https://v34581.com:7443?register=1","img":"https://j872jd.com/51676facfd7245648f7c38d1ad1459e8.gif"}];
 //arr.sort(randomsort);
 for(key in arr)
 {
@@ -14,30 +14,35 @@ for(key in arr)
 }
 */
 $('.modown-ad').append(''+
-'<a href="https://www.x2682.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://78dx8t.com/d39458b107e1422e8b38a67255b58744.gif"></a>'+
-'<a href="https://t4112.com:6443?register=1" rel="external nofollow" target="_blank"><img  src="https://kevinhewu.com/15b9b844a0304a2eb200b76bb89780f4.gif"></a>'+
-'<a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3332218.com/e03ae0ea5eaa4c8db8869dbf9ea8de26.gif"></a>'+
-'<a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3332218.com/e03ae0ea5eaa4c8db8869dbf9ea8de26.gif"></a>'+
-'<a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3332218.com/e03ae0ea5eaa4c8db8869dbf9ea8de26.gif"></a>'+
-'<a href="https://653531.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3332218.com/e03ae0ea5eaa4c8db8869dbf9ea8de26.gif"></a>'+
-'<a href="https://422317.com:8663?register=1" rel="external nofollow" target="_blank"><img  src="https://3332655.com/728686124baf486d80e997f91af0fdfb.gif"></a>'+
-'<a href="https://a2889.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://hangoutairbags.com/e36b601742454586a6c364aca2004be7.gif"></a>'+
-'<a href="https://a2889.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://hangoutairbags.com/e36b601742454586a6c364aca2004be7.gif"></a>'+
-'<a href="https://a2889.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://hangoutairbags.com/e36b601742454586a6c364aca2004be7.gif"></a>'+
-'<a href="https://a2889.com:8663/#/?register=1" rel="external nofollow" target="_blank"><img  src="https://hangoutairbags.com/e36b601742454586a6c364aca2004be7.gif"></a>'+
-'<a href="http://vinbet.vip" rel="external nofollow" target="_blank"><img  src="https://cdn.jsdelivr.net/gh/cloud-files/imgs/adamkoo-0826.gif"></a>'+
-'<a href="https://244043.cc" rel="external nofollow" target="_blank"><img  src="https://go.imglele.xyz/2021/09/17/edO6.gif"></a>'+
+'<a href="https://x9428.com:5443?register=1" rel="external nofollow" target="_blank"><img  src="https://3337253.com/6e349f605baf4877b74bb6a6852899ce.gif"></a>'+
+'<a href="https://v74563.com:7443?register=1" rel="external nofollow" target="_blank"><img  src="https://3337253.com/73f312afd5a14c94b3155c87de9ebb3d.gif"></a>'+
+'<a href="https://k0678.com:9443?register=1" rel="external nofollow" target="_blank"><img  src="https://3337612.com/3e717385bd3241649def67e6b4ca5086.gif"></a>'+
+'<a href="https://boao9333.com:32202" rel="external nofollow" target="_blank"><img  src="https://yvxt2x.com/fc23fcd7f538483293ac6f51d194fea3.gif"></a>'+
+'<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
+'<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
+'<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
+'<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
+'<a href="https://4481v.com:8663?register=1" rel="external nofollow" target="_blank"><img  src="https://3335663.com/71e7f01c46ea4b22bb73b571f488b00b.gif"></a>'+
+'<a href="https://7895p.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a>'+
+'<a href="https://7895p.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a>'+
+'<a href="https://7895p.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a>'+
+'<a href="https://7895p.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338635.com/ba3edc9c6f844f3bb586e12b90f7ca23.gif"></a>'+
+'<a href="https://245227.cc:8443/index.html?shareName=245227.cc" rel="external nofollow" target="_blank"><img  src="https://kvemm.com/818f0140dc51e34a6d5f2b839a42376f.gif"></a>'+
 '');
 
+var arr = new Array("https://8dwuo.com?channel=tdy626j1","https://8dwuo.com?channel=tdy626j1","https://8dwuo.com?channel=tdy626j1");
 
+var x = Math.round(Math.random()*arr.length);
 
 $('.modown-ad').append('<div class="topwz"><span>站长推荐：</span>'+
-'<a href="https://dysp6.me?channel=tdy626j3" rel="external nofollow" target="_blank">抖阴短视频APP</a>'+
-'<a href="https://slf537.com?_c=tslf245" rel="external nofollow" target="_blank">涩里番漫画</a>'+
-'<a href="http://www.746hrds.com?4832" rel="external nofollow" target="_blank">草莓X直播APP</a>'+
-'<a href="https://mddmp03.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
-'<a href="https://plulu.xyz/wv7svfx" rel="external nofollow" target="_blank">LuTube视频APP</a>'+
+'<a href="'+arr[x]+'" rel="external nofollow" target="_blank">抖阴短视频APP</a>'+
+'<a href="https://qqhjo.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
+'<a href="https://slf8vlgb.com?_c=tslf306" rel="external nofollow" target="_blank">涩里番成漫APP</a>'+
+'<a href="https://wjy4511.cn/?channelCode=rrdyfl" target="_blank">软软成人直播APP</a>'+
+'<a href="https://migukedown.tv/?channelCode=86" target="_blank">咪咕视频APP</a>'+
+'<a href="https://ch1eujah.com/?_c=offl1mh" target="_blank">51成人漫画APP</a>'+
 '</div>');
+
 
 /*
 document.write('<div class="bottom_fixed"><div id="dipiao" onclick="$(\'.bottom_fixed\').hide();">X</div></div>');
