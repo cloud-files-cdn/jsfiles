@@ -20,7 +20,6 @@ $('#topbox').append(''+
 '<a href="https://7895p.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3332600.com/740f075bb2c245e8b78d59f14bb6b13c.gif"></a>'+
 '<a href="https://7895p.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3332600.com/740f075bb2c245e8b78d59f14bb6b13c.gif"></a>'+
 '<a href="https://7895p.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3332600.com/740f075bb2c245e8b78d59f14bb6b13c.gif"></a>'+
-'<a href="https://245227.cc:8443/index.html?shareName=245227.cc" rel="external nofollow" target="_blank"><img  src="https://kvemm.com/818f0140dc51e34a6d5f2b839a42376f.gif"></a>'+
 '');
 
 var arr = new Array("https://d.ukpa8.com?channel=tdy626j1","https://d.ukpa8.com?channel=tdy626j1","https://d.ukpa8.com?channel=tdy626j1");
