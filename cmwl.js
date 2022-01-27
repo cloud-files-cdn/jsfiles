@@ -38,5 +38,5 @@ $('#ad_top_cmwl').append('<div class="topwz"><span>站长推荐：</span>'+
 '<a href="https://wjy4511.cn/?channelCode=rrdyfl" target="_blank">软软成人直播APP</a>'+
 '<a href="https://ch9bmcwk.com/?_c=offl1mh" target="_blank">51成人漫画APP</a>'+
 '<a href="https://91w3ecaf.com/?ch=offl2cy" target="_blank">91次元成漫APP</a>'+
-'<a href="https://楼凤阁.com/?aff=cmwl" target="_blank">楼凤阁小姐信息</a>'+
+'<a href="https://楼凤阁.com/?r=cmwl" target="_blank">楼凤阁小姐信息</a>'+
 '</div>');
