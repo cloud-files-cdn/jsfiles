@@ -30,7 +30,7 @@ var x = Math.round(Math.random()*arr.length);
 $('#tophf').append('<div class="topwz"><span>站长推荐：</span>'+
 '<a href="'+arr[x]+'" rel="external nofollow" target="_blank">抖阴短视频APP</a>'+
 '<a href="https://qqhjo.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
-'<a href="https://slfl30el.com?_c=tslf306" rel="external nofollow" target="_blank">涩里番成漫APP</a>'+
+'<a href="https://slfaz0c6.com?_c=tslf306" rel="external nofollow" target="_blank">涩里番成漫APP</a>'+
 '<a href="https://7lil9i.com/?dc=bsqt34" target="_blank">逼哩逼哩APP</a>'+
 '<a href="https://wjy4511.cn/?channelCode=rrdyfl" target="_blank">软软成人直播APP</a>'+
 '<a href="https://ch9bmcwk.com/?_c=offl1mh" target="_blank">51成人漫画APP</a>'+
