@@ -10,7 +10,7 @@ $('#ad_top').append(''+
 '<a href="https://v2770.com:8663" rel="external nofollow" target="_blank"><img  src="https://unmrjz.com/32157458f0e0451888a88f499edcdeae.gif"></a>'+
 '<a href="https://v2770.com:8663" rel="external nofollow" target="_blank"><img  src="https://unmrjz.com/32157458f0e0451888a88f499edcdeae.gif"></a>'+
 '<a href="https://v2770.com:8663" rel="external nofollow" target="_blank"><img  src="https://unmrjz.com/32157458f0e0451888a88f499edcdeae.gif"></a>'+
-'<a href="https://ky5998.com:3443" rel="external nofollow" target="_blank"><img  src="https://u0062.com/e6b8be1ecdb1417e95f72d081104bd59.gif"></a>'+
+'<a href="https://bibo127.com:32060" rel="external nofollow" target="_blank"><img  src="https://u0062.com/231069b81e194cdab50d36d5fa128ae7.gif"></a>'+
 '<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
 '<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
 '<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
