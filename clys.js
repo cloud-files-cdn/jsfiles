@@ -21,12 +21,28 @@ $('#hengfuad').append(''+
 '<a href="https://7895p.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338637.com/8072bc9bdcea465bb817a04e75775559.gif"></a>'+
 '');
 
+function shuffle(arr){
+  var len = arr.length;
+  for(var i = 0; i < len - 1; i++){
+    var idx = Math.floor(Math.random() * (len - i));
+    var temp = arr[idx];
+    arr[idx] = arr[len - i - 1];
+    arr[len - i -1] = temp;
+  }
+  return arr;
+}
 
-$('#hengfuad').append('<div class="topwz"><span>站长推荐：</span>'+
-'<a href="https://qqhjo.com/?dc=sqt00071" rel="external nofollow" target="_blank">麻豆传媒APP</a>'+
-'<a href="https://7lil9i.com/?dc=bsqt34" target="_blank">逼哩逼哩APP</a>'+
-'<a href="https://35z.cc/?channelCode=rrdyfl" target="_blank">软软成人直播APP</a>'+
-'<a href="https://ch2m1moj.com/?_c=offl1mh" target="_blank">51成人漫画APP</a>'+
-'<a href="https://91gi2ce0.com/?ch=offl2cy" target="_blank">91次元成漫APP</a>'+
-'<a href="https://楼凤阁.com/?r=clys" target="_blank">楼凤阁小姐信息</a>'+
-'</div>');
+var arrapp = ['<a href="https://qqhjo.com/?dc=sqt00071" target="_blank">麻豆传媒APP</a>',
+  '<a href="https://7lil9i.com/?dc=bsqt34" target="_blank">逼哩逼哩APP</a>',
+  '<a href="https://35z.cc/?channelCode=rrdyfl" target="_blank">软软成人直播APP</a>',
+  '<a href="https://ch2m1moj.com/?_c=offl1mh" target="_blank">51成人漫画APP</a>',
+  '<a href="https://91gi2ce0.com/?ch=offl2cy" target="_blank">91次元成漫APP</a>',
+  '<a href="https://楼凤阁.com/?r=xunyugong" target="_blank">楼凤阁小姐信息</a>'];
+var wzhtml='<div class="topwz"><span>站长推荐：</span>';
+$.each(shuffle(arrapp),function(index,value){
+     wzhtml+=value;
+});
+wzhtml=wzhtml+'</div>';
+
+$('#hengfuad').append(wzhtml);
+
