@@ -12,6 +12,7 @@ $('#ad_top_cjg').append(''+
 '<a href="https://v2770.com:8663" rel="external nofollow" target="_blank"><img  src="https://unmrjz.com/32157458f0e0451888a88f499edcdeae.gif"></a>'+
 '<a href="https://v2770.com:8663" rel="external nofollow" target="_blank"><img  src="https://unmrjz.com/32157458f0e0451888a88f499edcdeae.gif"></a>'+
 '<a href="https://bibo127.com:32060" rel="external nofollow" target="_blank"><img  src="https://u0062.com/231069b81e194cdab50d36d5fa128ae7.gif"></a>'+
+'<a href="https://u7011.com:789" rel="external nofollow" target="_blank"><img  src="https://upr3m2.com/3a73d9f170444e98967adfbc6a664ffd.gif"></a>'+
 '<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
 '<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
 '<a href="https://6883t.com:8663/?register=1" rel="external nofollow" target="_blank"><img  src="https://3338613.com/727a44e1dcef4bd9b84a4cdc6fdea9c1.gif"></a>'+
