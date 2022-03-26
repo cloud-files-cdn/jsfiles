@@ -26,10 +26,6 @@ $('#tophf').append(''+
 '<li><a href="https://8222162.com/?register=1" rel="external nofollow" target="_blank"><img  src="https://8889972.com/41f3cef4e26f47519e2c7243aecb5a3f.gif"></a></li>'+
 '<li><a href="https://8222162.com/?register=1" rel="external nofollow" target="_blank"><img  src="https://8889972.com/41f3cef4e26f47519e2c7243aecb5a3f.gif"></a></li>'+
 '<li><a href="https://8222162.com/?register=1" rel="external nofollow" target="_blank"><img  src="https://8889972.com/41f3cef4e26f47519e2c7243aecb5a3f.gif"></a></li>'+
-'<li><a href="https://1127s.com/?register=1" rel="external nofollow" target="_blank"><img  src="https://qczuqw8.com/5963cc4f1e224ff6b01f29f5cd785463.gif"></a></li>'+
-'<li><a href="https://1127s.com/?register=1" rel="external nofollow" target="_blank"><img  src="https://qczuqw8.com/5963cc4f1e224ff6b01f29f5cd785463.gif"></a></li>'+
-'<li><a href="https://1127s.com/?register=1" rel="external nofollow" target="_blank"><img  src="https://qczuqw8.com/5963cc4f1e224ff6b01f29f5cd785463.gif"></a></li>'+
-'<li><a href="https://1127s.com/?register=1" rel="external nofollow" target="_blank"><img  src="https://qczuqw8.com/5963cc4f1e224ff6b01f29f5cd785463.gif"></a></li>'+
 '');
 
 
