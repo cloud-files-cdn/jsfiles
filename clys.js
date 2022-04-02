@@ -44,6 +44,7 @@ var arrapp = ['<a href="https://qqhjo.com/?dc=sqt00071" target="_blank">麻豆�
 				  '<a href="https://91yvf1zr.com/?ch=offl2cy" target="_blank">91次元成漫APP</a>',
 				  '<a href="https://luoyanglu.com/?TT9" target="_blank">陌陌视频APP</a>',
 				  '<a href="https://zhuren7.top/?channelCode=dsxk_5" target="_blank">大神成人直播APP</a>',
+				  '<a href="https://dypjq.com?channel=tdy626j1" target="_blank">抖阴成人短视频</a>',
 				  '<a href="https://楼凤阁.com/" target="_blank">楼凤阁找小姐</a>'];
 var wzhtml='<div class="topwz"><span>站长推荐：</span>';
 $.each(shuffle(arrapp),function(index,value){
