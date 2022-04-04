@@ -37,7 +37,8 @@ function shuffle(arr){
   return arr;
 }
 
-var arrapp = ['<a href="https://7lil9i.com/?dc=bsqt34" target="_blank">逼哩逼哩视频APP</a>',
+var arrapp = ['<a href="https://qqhjo.com/?dc=sqt00071" target="_blank">麻豆传媒APP</a>',
+				  '<a href="https://7lil9i.com/?dc=bsqt34" target="_blank">逼哩逼哩视频APP</a>',
 				  '<a href="https://35z.cc/?channelCode=rrdyfl" target="_blank">软软成人直播APP</a>',
 				  '<a href="https://chwu4hsj.com/?_c=offl1mh" target="_blank">51成漫APP</a>',
 				  '<a href="https://91yvf1zr.com/?ch=offl2cy" target="_blank">91次元成漫APP</a>',
