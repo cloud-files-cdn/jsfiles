@@ -39,11 +39,12 @@ document.write('<style>#ggmask { position: absolute; left:0; top:0; background:#
 '<div class="ggclose" onclick="closeapp()">关  闭</div></div>');
 
 $('.footer').append('<div class="container"><div class="col-md-5 w3ls_footer_grid1_left"><p><a href="/files/caoliu.apk" target="_blank">点击下载安卓APP客户端</a></p><p><a href="/发布器（口令：草榴视频）.zip" target="_blank">下载Windows版地址发布器（永不迷路）</a></p><p>联系邮箱：caoliuvideo@outlook.com</p></div><div class="col-md-7 w3ls_footer_grid1_right"><ul>'+
-'<li><a href="https://idiyifulidaohang.space/?clsp">第一福利导航</a></li>'+
-'<li><a href="https://ctxdaohang.com/?clsp" target="_blank">藏天下福利导航</a></li>'+
-'<li><a href="https://fendianfuli.com/?clsp" target="_blank">粉点福利导航</a></li>'+
-'<li><a href="https://huai123.me/?clsp" target="_blank">坏123导航</a></li>'+
-'<li><a href="https://每日福利导航.com/?clsp" target="_blank">每日福利导航</a></li>'+
-'<li><a href="https://bc-nv.com" target="_blank">权威博彩导航</a></li>'+
+'<li><a href="https://第一福利导航.com/?zq">第一福利导航</a></li>'+
+'<li><a href="https://jfgsou.com/?zq" target="_blank">集芳阁云搜</a></li>'+
+'<li><a href="https://ctxdaohang.com/?zq" target="_blank">藏天下福利导航</a></li>'+
+'<li><a href="https://每日福利导航.com/?zq" target="_blank">每日福利导航</a></li>'+
+'<li><a href="https://huai123.me/?zq" target="_blank">坏123福利导航</a></li>'+
+'<li><a href="https://fendianfuli.com/?zq" target="_blank">粉点福利导航</a></li>'+
+'<li><a href="https://楼凤阁.com/?zq" target="_blank">楼凤阁找小姐</a></li>'+
 '</ul></div><div class="clearfix"></div></div>');
 

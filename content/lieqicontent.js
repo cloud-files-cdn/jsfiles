@@ -43,5 +43,13 @@ $('.movie_list .title h2').eq(0).after('<span style="color:#fff;float:right;">�
 
 
 $('.nav_bar_r').prepend('<a href="/files/lieqizhijia.apk" target="_blank">安卓APP客户端</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/发布器（口令：猎奇之家）.zip" target="_blank">下载Windows版地址发布器（稳定防封）</a>');
-$('#fdlink').prepend('<a href="https://idiyifulidaohang.space/?lieqizz" target="_blank">第一福利导航</a><a href="https://集芳阁.com/" target="_blank">集芳阁</a><a href="https://ctxdaohang.com/?lieqizz" target="_blank">藏天下福利导航</a><a href="https://fendianfuli.com/?lieqizz" target="_blank">粉点福利导航</a><a href="https://huai123.me/?lieqizz" target="_blank">坏123导航</a><a href="https://每日福利导航.com/?lieqizz" target="_blank">每日福利导航</a><a href="https://bc-nv.com" target="_blank">权威博彩导航</a>');
+$('#fdlink').prepend(''+
+'<a href="https://第一福利导航.com/?zq">第一福利导航</a>'+
+'<a href="https://jfgsou.com/?zq" target="_blank">集芳阁云搜</a>'+
+'<a href="https://ctxdaohang.com/?zq" target="_blank">藏天下福利导航</a>'+
+'<a href="https://每日福利导航.com/?zq" target="_blank">每日福利导航</a>'+
+'<a href="https://huai123.me/?zq" target="_blank">坏123福利导航</a>'+
+'<a href="https://fendianfuli.com/?zq" target="_blank">粉点福利导航</a>'+
+'<a href="https://楼凤阁.com/?zq" target="_blank">楼凤阁找小姐</a>'+
+'');
 $('.downplayer').prepend('<h1>永久免费、更新及时，请务必收藏地址发布页，并发送邮件获取回家的路！</h1>');
