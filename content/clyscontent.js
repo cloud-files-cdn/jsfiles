@@ -1,4 +1,4 @@
-function startapp(){
+﻿function startapp(){
 var oMask = document.getElementById("ggmask");
 var oImg = document.getElementById("ggimg");
     oMask.style.display = 'block';
@@ -39,7 +39,6 @@ document.write('<style>#ggmask { position: absolute; left:0; top:0; background:#
 '<div class="ggclose" onclick="closeapp()">关  闭</div></div>');
 
 $('.footer').append('<div class="container"><div class="col-md-5 w3ls_footer_grid1_left"><p><a href="/files/caoliu.apk" target="_blank">点击下载安卓APP客户端</a></p><p><a href="/发布器（口令：草榴视频）.zip" target="_blank">下载Windows版地址发布器（永不迷路）</a></p><p>联系邮箱：caoliuvideo@outlook.com</p></div><div class="col-md-7 w3ls_footer_grid1_right"><ul>'+
-'<li><a href="https://www.landh.blog/?clsp">蓝导航</a></li>'+
 '<li><a href="https://idiyifulidaohang.space/?clsp">第一福利导航</a></li>'+
 '<li><a href="https://ctxdaohang.com/?clsp" target="_blank">藏天下福利导航</a></li>'+
 '<li><a href="https://fendianfuli.com/?clsp" target="_blank">粉点福利导航</a></li>'+

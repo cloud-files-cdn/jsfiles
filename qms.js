@@ -42,7 +42,7 @@ var arrapp = ['<a href="https://qqhjo.com/?dc=sqt00071" target="_blank">麻豆�
 				  '<a href="https://35z.cc/?channelCode=rrdyfl" target="_blank">软软成人直播APP</a>',
 				  '<a href="https://chep6mc3.com/?_c=offl1mh" target="_blank">51成漫APP</a>',
 				  '<a href="https://916wesav.com/?ch=offl2cy" target="_blank">91次元成漫APP</a>',
-				  '<a href=" https://mtaoaa.com?dc=mx105t" target="_blank">蜜桃传媒APP</a>',	
+				  '<a href="https://mtaoaa.com?dc=mx105t" target="_blank">蜜桃传媒APP</a>',	
 				  '<a href="https://zhuren7.top/?channelCode=dsxk_5" target="_blank">大神成人直播APP</a>',
 				  '<a href="https://dypjq.com?channel=tdy626j1" target="_blank">抖阴成人短视频</a>',
 				  '<a href="https://楼凤阁.com/" target="_blank">楼凤阁找小姐</a>'];
