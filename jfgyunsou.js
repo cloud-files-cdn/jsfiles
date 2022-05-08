@@ -11,6 +11,7 @@ function shuffle(arr){
 }
 $('#contentlist').prepend('<div class="appbox" style="margin-top:5px;"></div>');
 var arrapp = ['<a href="https://lidaokj.top/?channelCode=nhJBe" target="_blank">初潮成人直播</a>',
+				'<a href="https://nfglajgalnfkg.top/?channelCode=MQ77" target="_blank">花芯秒播App</a>',
 				  '<a href="https://35z.cc/?channelCode=rrdyfl" target="_blank">软软成人直播APP</a>',
 				  '<a href="https://chsqbavo.com/?_c=offl1mh" target="_blank">51成漫APP</a>',
 				  '<a href="https://91v327sr.com/?ch=offl2cy" target="_blank">91次元成漫APP</a>',
